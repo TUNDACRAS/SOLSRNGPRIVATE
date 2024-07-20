@@ -1,3 +1,5 @@
+hey sols rng devs this isn't a script for sols rng this is a script for macroing in-games
+
 local player = game.Players.LocalPlayer
 local gui = Instance.new("ScreenGui")
 gui.Parent = player.PlayerGui
